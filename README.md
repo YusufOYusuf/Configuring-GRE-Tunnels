@@ -1,4 +1,4 @@
-<h1>Configuring Static Routing</h1>
+<h1>Configuring GRE Tunnels</h1>
 
 
 <h2>Description</h2>
